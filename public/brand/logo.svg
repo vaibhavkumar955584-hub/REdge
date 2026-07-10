@@ -1,0 +1,18 @@
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect width="40" height="40" rx="10" fill="url(#logo_grad)" />
+  <path d="M14 11V29" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M14 11H22C25.3137 11 28 13.6863 28 17C28 20.3137 25.3137 23 22 23H14" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 23L29 32" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M26 29H32V23" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text: REdge -->
+  <text x="50" y="28" fill="#111827" style="font-family:Inter, sans-serif; font-weight:800; font-size:22px; letter-spacing:-0.03em;">REdge</text>
+
+  <defs>
+    <linearGradient id="logo_grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+</svg>

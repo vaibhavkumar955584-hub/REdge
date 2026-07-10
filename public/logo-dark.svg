@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <!-- Slanted Document Background -->
+  <path d="M80 300L260 120H420V460H80V300Z" fill="#F5F3FF" fill-opacity="0.9"/>
+  <!-- Document Lines -->
+  <rect x="140" y="360" width="160" height="16" rx="8" fill="#8B5CF6"/>
+  <rect x="140" y="400" width="160" height="16" rx="8" fill="#8B5CF6"/>
+  <rect x="140" y="440" width="100" height="16" rx="8" fill="#8B5CF6"/>
+  <!-- Modern Stylized R -->
+  <path d="M220 60H380C446.274 60 500 113.726 500 180C500 246.274 446.274 300 380 300H220V60Z" fill="#8B5CF6"/>
+  <path d="M360 300L460 480" stroke="#8B5CF6" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 300V480" stroke="#8B5CF6" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

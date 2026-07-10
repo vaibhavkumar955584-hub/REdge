@@ -1,0 +1,27 @@
+{
+  "name": "REdge Resume Builder",
+  "short_name": "REdge",
+  "description": "Modern ATS-friendly resume builder and parser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6d28d9",
+  "icons": [
+    {
+      "src": "/brand/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/brand/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/brand/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
